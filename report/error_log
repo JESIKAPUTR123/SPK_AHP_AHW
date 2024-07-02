@@ -1,0 +1,2 @@
+[05-Sep-2021 17:27:28 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/beds9746/public_html/smartvillage/admin/report/laporan_lahiran.php on line 47
+[05-Sep-2021 17:28:25 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/beds9746/public_html/smartvillage/admin/report/laporan_lahiran.php on line 47
